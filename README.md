@@ -1,4 +1,4 @@
-# audio-protection
+# Audio protection
 
 ## How to use?
 ```sh
